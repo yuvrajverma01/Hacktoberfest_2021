@@ -11,6 +11,7 @@ Get your free T-shirt with us ;)
 3. You can sign up anytime between October 1 and October 31.
 
 # Rules / Steps
+  * Raise an issue and get it assigned before making any PR.
   * Commit your App files on your own Repositiory.
   * Create appName.md file and Add your app description and link to your repo in it.
   * Create a PR with description
